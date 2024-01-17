@@ -8,7 +8,7 @@ chapter 1 ( Programming Problem-Solving )
 
 - learn input, process, output
 - learn algorithm (flowchart and pseudo codes)
-- learn control structure
+- learn basic control structure
 ---------
 
 chapter 2 ( Elementary Programming )
@@ -26,23 +26,45 @@ chapter 2 ( Elementary Programming )
 --------
 
 chapter 3 ( Control structure )
+-
+- learn how to use if , if else , switch case 
+- learn about looping in c++ code
+
 
 --------
 
 chapter 4 ( Function )
+-
+- library function
+- user define function 
+- how to call the function and return value
 
 --------
 
 chapter 5 ( Array )
+-
+- how to initialize, call , giving size for array
+- using array in function
+- 2D and 3D dimension array
 
 --------
 
 chapter 6 ( Input and Output )
-
+-
+- output formating 
+- input formatting
+- introduction to Files
 -------
 
 chapter 7 ( Pointer )
-
+-
+- learn about address
+- learn pointer variable
+- the relation between pointer and array
+- pointer arithmetic
+- comparing arithmetic
+- how to use pointer in function
+- dynamic memory allocation
 ----------
 
 chapter 8 ( Structured Data )
